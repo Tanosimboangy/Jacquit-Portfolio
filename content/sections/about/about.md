@@ -1,11 +1,9 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
+title: 'Learning to programm a computer teaches you how to think!'
 about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+techs: ['Html', 'Css', 'Javascript', 'React', 'Redux']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+My name is Ratongamanahaja Francois Valentino Jacquit, a student from Madagascar but studying in Mahanoro. I'm 23 years old. I'm studying at ONJA now to be a professional front-end developer.
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
-
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+I started studying at ONJA since january 2019. After a year of lerning English, we started learning Coding in january 2020. I found it unbeleivable to pursue the mutation from the background where there was no chance to learn about technology into learnig computer science. I have been learning HTML, CSS, JAVASCRIPT, and now I am learnig about React.
