@@ -2,7 +2,6 @@ import { css } from '@emotion/core';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import React from 'react';
-import Rotator from './rotator';
 import SocialIcons from './social-icons';
 import { socialIconList } from './_config/social-icon-list';
 import { mq } from './_shared/media';
@@ -57,6 +56,7 @@ const StyledRotatorContainer = styled.div`
   ${flexCenter};
   margin: 0.8rem 0;
   font-size: 0.8rem;
+  font-weight: 500;
 
   ${mq.gt.xs} {
     margin: 0;
@@ -73,10 +73,7 @@ const Footer = ({ author }) => {
           </StyledCopyright>
           <SocialIcons icons={socialIconList} />
         </StyledSocialContainer>
-        <StyledRotatorContainer>
-          Made with
-          <Rotator emojis={['☕', '🍕', '🍺', '🍜', '💖']} />
-        </StyledRotatorContainer>
+        <StyledRotatorContainer>Made with Gatsby</StyledRotatorContainer>
       </StyledFooterContainer>
     </StyledFooter>
   );

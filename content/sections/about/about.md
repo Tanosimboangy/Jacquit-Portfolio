@@ -1,9 +1,10 @@
 ---
 title: 'Learning to programm a computer teaches you how to think!'
 about_image: './me.jpg'
-techs: ['Html', 'Css', 'Javascript', 'React', 'Redux']
+techs: ['Html5', 'Css', 'Javascript', 'React', 'Redux']
 ---
 
-My name is Ratongamanahaja Francois Valentino Jacquit, a student from Madagascar but studying in Mahanoro. I'm 23 years old. I'm studying at ONJA now to be a professional front-end developer.
-
-I started studying at ONJA since january 2019. After a year of lerning English, we started learning Coding in january 2020. I found it unbeleivable to pursue the mutation from the background where there was no chance to learn about technology into learnig computer science. I have been learning HTML, CSS, JAVASCRIPT, and now I am learnig about React.
+My name is Ratongamanahaja Francois Valentino Jacquit, and I am 24 years old. I am a student from Madagascar. I'm studying to be a professional front-end developer at ONJA.
+ 
+I started studying at ONJA in january 2019. 
+After a year of learning English, I started learning Coding in january 2020. I found it unbelievable to pursue the mutation from the background where there was no chance to learn about technology into learning coding. I have been learning HTML, CSS, JAVASCRIPT, and now I am learning about React. I am very passionate about learning new technology. I look forward to furthering my knowledge in computer science.
