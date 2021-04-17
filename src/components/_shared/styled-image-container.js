@@ -8,10 +8,6 @@ export const StyledImageContainer = styled.div`
   & .gatsby-image-wrapper * {
     transition: transform var(--transition-fast) ease-in-out !important;
   }
-
-  &:hover .gatsby-image-wrapper * {
-    transform: scale(1.1);
-  }
 `;
 
 export const StyledStaticImageContainer = styled.div`

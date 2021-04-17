@@ -9,11 +9,6 @@ export const indexMenuLinks = [
     link: '/#projects',
     icon: 'terminal',
   },
-  // {
-  //   name: 'Blog',
-  //   link: '/#blog',
-  //   icon: 'feather-alt',
-  // },
   {
     name: 'Contact',
     link: '/#contact',
@@ -28,13 +23,13 @@ export const blogMenuLinks = [
     icon: 'code',
   },
   {
-    name: 'Blog',
-    link: '/blog',
+    name: 'About',
+    link: '/#about',
     icon: 'feather-alt',
   },
   {
-    name: 'Tags',
-    link: '/tags',
+    name: 'Contact',
+    link: '/#contact',
     icon: 'tags',
   },
 ];
