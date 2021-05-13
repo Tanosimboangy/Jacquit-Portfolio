@@ -1,7 +1,7 @@
 ---
-title: 'Learning to programm a computer teaches you how to think!'
+title: 'Learning to program a computer teaches you how to think!'
 about_image: './me.jpg'
-techs: ['Html5', 'Css', 'Javascript', 'React', 'Redux']
+techs: ['Html5', 'Css3', 'Javascript', 'React', 'Redux']
 ---
 
 My name is Ratongamanahaja Francois Valentino Jacquit, and I am 24 years old. I am a student from Madagascar. I'm studying to be a professional front-end developer at ONJA.

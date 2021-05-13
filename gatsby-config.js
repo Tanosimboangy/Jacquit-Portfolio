@@ -7,7 +7,7 @@ module.exports = {
     author: 'Valentino Jacquit',
     description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
     url: 'https://knochenmark.github.io',
-    paginationPageSize: 4, // Amount of posts displayed per listing page.
+    paginationPageSize: 4, // Amount of 100-beers.md displayed per listing page.
   },
   plugins: [
     `gatsby-plugin-stylus`,
@@ -26,13 +26,7 @@ module.exports = {
         path: `${__dirname}/content/projects`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `markdown-pages`,
-        path: `${__dirname}/content/posts`,
-      },
-    },
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {

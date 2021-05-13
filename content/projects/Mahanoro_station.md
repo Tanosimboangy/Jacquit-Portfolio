@@ -7,4 +7,4 @@ demo_link: 'https://mahanoro-station-jacquit.netlify.app/'
 techs: ['React', 'Redux']
 ---
 
-I build this app in order to practice using redux for using another way to handle state in react. It is an app that gives people access to book their trips online. Using Redux makes is fancier to handle the user's interactions and updating the state.
+I build this app in order to practice using redux which is one of the best ways to handle state in react. It is an app that gives people access to book their trips online. Using Redux makes is fancier to handle the user's interactions and updating the state.
