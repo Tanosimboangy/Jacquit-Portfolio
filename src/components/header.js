@@ -27,9 +27,9 @@ const StyledHomeLink = styled(Link)`
   text-decoration: none;
 `;
 const StyledLogo = styled(Logo)`
-  fill: blue;
+  fill: white;
   border-radius: 25%;
-  width: 46px;
+  width: 60px;
   height: auto;
 
   &:hover {
