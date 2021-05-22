@@ -105,9 +105,7 @@ export const query = graphql`
 
     contact: markdownRemark(fileAbsolutePath: { regex: "/content/sections/contact/" }) {
       frontmatter {
-        phone
         email
-        address
       }
       html
     }

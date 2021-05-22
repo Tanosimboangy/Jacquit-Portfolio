@@ -56,7 +56,7 @@ const StyledContacts = styled.div`
 
 const Contact = ({ data }) => {
   const {
-    frontmatter: { phone, email, address },
+    frontmatter: { email },
     html,
   } = data;
 
@@ -67,15 +67,6 @@ const Contact = ({ data }) => {
         <StyledTextSection dangerouslySetInnerHTML={{ __html: html }} />
         <StyledSeparator />
         <StyledContacts>
-          {/* {address && (
-            <StyledContainer>
-              <Icon icon="building" />
-              <StyledFormContainer>
-                <StyledForm>Office Location</StyledForm>
-                <span>{address}</span>
-              </StyledFormContainer>
-            </StyledContainer>
-          )} */}
           {email && (
             <StyledContainer>
               <Icon icon="paper-plane" />
@@ -85,15 +76,15 @@ const Contact = ({ data }) => {
               </StyledFormContainer>
             </StyledContainer>
           )}
-          {phone && (
+          {/* {github && (
             <StyledContainer>
-              <Icon icon="mobile-alt" />
+              <Icon icon={socialIconList} />
               <StyledFormContainer>
-                <StyledForm>Phone Number</StyledForm>
-                <span>{phone}</span>
+                <StyledForm>My Github</StyledForm>
+                <span>{github}</span>
               </StyledFormContainer>
             </StyledContainer>
-          )}
+          )} */}
         </StyledContacts>
       </StyledContactSection>
     </React.Fragment>
