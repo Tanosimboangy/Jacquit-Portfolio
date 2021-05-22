@@ -1,3 +1,3 @@
 ---
-email: 'mailto:Jacquit.aja@onja.org'
+email: 'mailto: dev@onja.org'
 ---
