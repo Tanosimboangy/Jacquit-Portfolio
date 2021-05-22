@@ -6,7 +6,7 @@
  
 <div align="center">
   <h3>
-    <a href="https://mahanoro-station-jacquit.netlify.app">
+    <a href="https://jacquit-portfolio.netlify.app/">
       Demo
     </a>
     <span> | </span>
