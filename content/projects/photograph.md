@@ -6,7 +6,9 @@ title: 'Photograph'
 cover_image: './images/photograph.png'
 repo_link: 'https://github.com/Tanosimboangy/front-end-finals'
 demo_link: 'https://jacquit-photograph.netlify.app/'
-techs: ['Html5', 'Css3', 'Vanilla Javascript']
+techs: ['HTML', 'CSS', 'Vanilla Javascript']
 ---
 
-I built this app only after a few months of learning HTML and Css. The goal was to create the whole page from scratch by using the right elements of html for the best cases and using appropriate Css in order to match the design and make the page responsive.
+I built this app after only a few months of learning HTML and CSS. The goal was to create the whole page from scratch by utilizing semantic HTML elements and using CSS in order to match the design and make the page responsive.
+​
+While working on this project, I learned to write clean, accessible HTML and follow best practices for responsiveness.
