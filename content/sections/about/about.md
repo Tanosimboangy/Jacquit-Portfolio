@@ -4,7 +4,10 @@ about_image: './me.jpg'
 techs: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux']
 ---
 
-My name is Ratongamanahaja Francois Valentino Jacquit, and I am 24 years old. I am a student from Madagascar. I'm studying to be a professional front-end developer at ONJA.
+I am Ratongamanahaja Francois Valentino Jacquit, an aspiring web-developer from Madagascar. I'm studying to be a professional programmer at Onja, a social business focused on delivering societal change through educational empowerment of underprivileged youth.
 
-I started studying at ONJA in january 2019.
-After a year of learning English, I started learning Coding in january 2020. I found it unbelievable to pursue the mutation from the background where there was no chance to learn about technology into learning coding. I have been learning HTML5, CSS3, JAVASCRIPT, including Vanilla Javascript and React, and now I am learning about React Native. I am very passionate about learning new technology. I look forward to furthering my knowledge in computer science.
+I started studying at Onja in January of 2019. After a year of learning English, I began my journey into coding, starting with HTML and CSS followed by JavaScript, React and now React Native and TypeScript.
+
+Coming from a background that did not have any opportunities to learn about modern technology, diving into coding has been a quite unbelievable change/shift/mutation/journey/experience, that {x} I had to overcome for being able to .
+​
+Going into the future, I am very passionate about learning new technologies. I look forward to furthering my knowledge by learning new languages, exploring new fields of computer science and writing production-ready applications.
