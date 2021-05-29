@@ -8,6 +8,6 @@ I am Ratongamanahaja Francois Valentino Jacquit, an aspiring web-developer from 
 
 I started studying at Onja in January of 2019. After a year of learning English, I began my journey into coding, starting with HTML and CSS followed by JavaScript, React and now React Native and TypeScript.
 
-Coming from a background that did not have any opportunities to learn about modern technology, diving into coding has been a quite unbelievable experience, that I had to overcome for being able to .
+Coming from a background that did not have any opportunities to learn about modern technology, diving into coding has been a quite unbelievable experience for me, that I had to overcome for being able to expand my knowledge about coding.
 ​
 Going into the future, I am very passionate about learning new technologies. I look forward to furthering my knowledge by learning new languages, exploring new fields of computer science and writing production-ready applications.
