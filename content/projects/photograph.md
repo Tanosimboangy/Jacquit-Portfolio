@@ -2,7 +2,6 @@
 featured: true
 date: '2020-05-09'
 title: 'Photograph'
-# cover_image: './images/notebook.jpg'
 cover_image: './images/photograph.png'
 repo_link: 'https://github.com/Tanosimboangy/front-end-finals'
 demo_link: 'https://jacquit-photograph.netlify.app/'
