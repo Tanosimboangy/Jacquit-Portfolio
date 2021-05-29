@@ -52,16 +52,6 @@ const StyledCopyright = styled.span`
     margin-bottom: 0;
   }
 `;
-const StyledRotatorContainer = styled.div`
-  ${flexCenter};
-  margin: 0.8rem 0;
-  font-size: 0.8rem;
-  font-weight: 500;
-
-  ${mq.gt.xs} {
-    margin: 0;
-  }
-`;
 
 const Footer = ({ author }) => {
   return (
@@ -73,7 +63,6 @@ const Footer = ({ author }) => {
           </StyledCopyright>
           <SocialIcons icons={socialIconList} />
         </StyledSocialContainer>
-        <StyledRotatorContainer>Made with Gatsby</StyledRotatorContainer>
       </StyledFooterContainer>
     </StyledFooter>
   );

@@ -3,7 +3,7 @@ import Img from 'gatsby-image';
 import React from 'react';
 import TechList from './tech-list';
 import { mq } from './_shared/media';
-import { StyledH1, StyledH2 } from './_shared/styled-headings';
+import { StyledH1 } from './_shared/styled-headings';
 import { StyledStaticImageContainer } from './_shared/styled-image-container';
 import { StyledSection } from './_shared/styled-section';
 
@@ -23,7 +23,7 @@ const StyledTextSection = styled.section`
 
 const About = ({ data }) => {
   const {
-    frontmatter: { title, techs, about_image },
+    frontmatter: { techs, about_image },
     html,
   } = data;
 
@@ -39,7 +39,6 @@ const About = ({ data }) => {
           </StyledStaticImageContainer>
         )}
         <div>
-          <StyledH2>{title}</StyledH2>
           <StyledTextSection dangerouslySetInnerHTML={{ __html: html }} />
           <TechList techs={techs} />
         </div>
