@@ -1,5 +1,5 @@
 ---
-about_image: './me.jpg'
+about_image: './Jacquit.jpg'
 techs: ['HTML', 'CSS', 'TypeScript', 'React', 'Redux']
 ---
 
