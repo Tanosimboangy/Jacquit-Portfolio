@@ -4,7 +4,7 @@ date: '2019-12-22'
 title: 'Birthday App'
 cover_image: './images/birthday-app.png'
 repo_link: 'https://github.com/Tanosimboangy/birthday-app'
-demo_link: 'https://jacquit-birthday-app.netlify.app/'
+demo_link: 'https://birthday-app-jacquit.netlify.app/sl'
 techs: ['HTML', 'CSS', ' Vanilla Javascript']
 ---
 
