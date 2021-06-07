@@ -3,7 +3,7 @@ featured: false
 date: '2020-08-19'
 title: 'Mahanoro station'
 repo_link: 'https://github.com/Tanosimboangy/mahanoro-station'
-demo_link: 'https://mahanoro-station-jacquit.netlify.app/'
+demo_link: 'http://mahanoro-station-app.jacquit.onja.org/'
 techs: ['React', 'Redux']
 ---
 

@@ -2,9 +2,9 @@
 featured: true
 date: '2019-12-22'
 title: 'Birthday App'
-cover_image: './images/birthday-app.png'
+cover_image: './images/birthday_app.png'
 repo_link: 'https://github.com/Tanosimboangy/birthday-app'
-demo_link: 'https://birthday-app-jacquit.netlify.app/sl'
+demo_link: 'http://birthday-app.jacquit.onja.org/'
 techs: ['HTML', 'CSS', ' Vanilla Javascript']
 ---
 
