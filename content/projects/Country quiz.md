@@ -4,7 +4,7 @@ date: '2019-12-15'
 title: 'Country Quiz'
 cover_image: './images/country_quiz.png'
 repo_link: 'https://github.com/Tanosimboangy/country-quiz'
-demo_link: 'https://jacquit-country-quiz.netlify.app/'
+demo_link: 'https://country-quiz-jacquit.netlify.app/'
 techs: ['React']
 ---
 
