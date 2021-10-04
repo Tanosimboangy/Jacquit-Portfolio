@@ -20,6 +20,7 @@ const StyledFeaturedProject = styled.article`
 
   ${mq.gt.sm} {
     grid-template-columns: repeat(2, 1fr);
+    align-items: center;
   }
   &:nth-of-type(even) {
     direction: rtl;
