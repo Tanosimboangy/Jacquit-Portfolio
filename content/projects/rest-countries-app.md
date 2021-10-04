@@ -1,6 +1,6 @@
 ---
 featured: true
-date: '04-09-2021'
+date: '2021-09-04'
 title: 'Rest Countries App'
 cover_image: './images/birthday_app.png'
 repo_link: 'https://github.com/Tanosimboangy/rest-countries-ts'
