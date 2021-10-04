@@ -15,7 +15,7 @@ import { StyledSection } from './_shared/styled-section';
 const StyledFeaturedProject = styled.article`
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 2.5rem;
+  grid-gap: 1rem;
   padding: 2.5rem 0;
 
   ${mq.gt.sm} {
