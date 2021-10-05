@@ -1,7 +1,7 @@
 ---
 featured: true
 date: '2020-03-09'
-title: 'Photograph'
+title: 'Landing page'
 cover_image: './images/photograph.png'
 repo_link: 'https://github.com/Tanosimboangy/front-end-finals'
 demo_link: 'https://jacquit-photograph.netlify.app/'
