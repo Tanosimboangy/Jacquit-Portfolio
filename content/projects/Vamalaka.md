@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 date: ''
 title: 'E-commerce international trading platform'
 cover_image: './images/vamalaka.png'
