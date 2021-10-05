@@ -1,6 +1,6 @@
 ---
-featured: true
-date: '2021-04-22'
+featured: false
+date: '2021-06-22'
 title: 'Landing page'
 cover_image: './images/landing_page.png'
 repo_link: 'https://github.com/Tanosimboangy/iwt-4-fylo-dark-theme'
