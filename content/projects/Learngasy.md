@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 date: '2021-05-15'
 title: 'Learn Malagasy/English'
 cover_image: './images/learn-gasy.png'
