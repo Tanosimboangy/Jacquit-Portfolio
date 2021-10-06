@@ -4,7 +4,7 @@ module.exports = {
     title: 'Level 2',
     titleTemplate: '%s · Level 2',
     image: '/images/logo.png',
-    author: 'Jacquit Francois Valentino Ratongamanahaja',
+    author: 'Jacquit',
     description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
     url: 'https://knochenmark.github.io',
     paginationPageSize: 4, // Amount of 100-beers.md displayed per listing page.

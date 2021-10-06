@@ -1,6 +1,6 @@
 ---
 featured: true
-date: ''
+date: '2021-09-22'
 title: 'E-commerce international trading platform'
 cover_image: './images/vamalaka.png'
 repo_link: 'https://github.com/Tanosimboangy/iwt-4-fylo-dark-theme'

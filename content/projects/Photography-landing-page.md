@@ -1,8 +1,8 @@
 ---
-featured: true
+featured: false
 date: '2020-03-09'
-title: 'Landing page'
-cover_image: './images/photograph.png'
+title: 'Photography Landing page'
+cover_image: './images/photograph-landing-page.png'
 repo_link: 'https://github.com/Tanosimboangy/front-end-finals'
 demo_link: 'https://jacquit-photograph.netlify.app/'
 techs: ['HTML', 'CSS', 'Vanilla Javascript']
