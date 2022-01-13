@@ -1,27 +1,41 @@
-# My portfolio
-
-- ### This portfolio is written with [Gatsby](https://www.gatsbyjs.com/)
-
-<h1 align="center">My Portfolio</h1>
+# **Jacquit's Portfolio**
  
 <div align="center">
   <h3>
-    <a href="https://jacquit-portfolio.netlify.app/">
+    <a href="https://jacquit-portfolio.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Tanosimboangy/Jacquit-portfolio">
-      Solution
+    <a href="https://github.com/Tanosimboangy/Jacquit-portfolio" target="_blank">
+      Source
     </a>
   </h3>
 </div>
+
+## __Description:__
+This is my Portfolio, which is built with gatsby. It is more about me and the projects that I have built.
  
-# _Brief Description about this Portfolio:_
+## __Technology__
+- [Gatsby](https://www.gatsbyjs.com/docs/)
+- [Styled Components](https://styled-components.com/)
 
-- I built this portfolio in order to show the world some of the interesting projects I have worked on. Gatsby is a nice tool to create faster sites than similar types of sites. It has an implicit security since there is no database or server.
+## __Design__
+![screenshot](./src/assets/Portfolio_sm_screenshot.png)
+![screenshot](./src/assets/Portfolio_bg_screenshot.png)
 
-- While working on this App, using Gatsby makes it faster to render the contents.
+## __Prerequisites:__
 
-# _Contact :_
+**If you want to run this project in you local machine, clone it and follow these few steps:**
 
-- ## GitHub [Tanosimboangy](https://github.com/Tanosimboangy)
+```bash
+# Clone this repository to your local computer
+$ git clone https://github.com/Tanosimboangy/Jacquit-portfolio.git
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn develop
+```
+## __Contact :__
+$ GitHub [Tanosimboangy](https://github.com/Tanosimboangy)
