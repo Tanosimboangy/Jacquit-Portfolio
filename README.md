@@ -20,7 +20,7 @@
 
 ## Description
 
-This is my Portfolio, which is built with gatsby. It is more about me and the projects that I have built.
+This is my portfolio, which is built with Gatsby. It is more about me and the projects that I have built.
  
 ## Built with
 
