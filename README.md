@@ -2,13 +2,13 @@
  
 <div align="center">
   <h3>
-    <a href="https://jacquit-portfolio.netlify.app/" target="_blank">
-      Demo
-    </a>
-    <span> | </span>
     <a href="https://github.com/Tanosimboangy/Jacquit-portfolio" target="_blank">
       Source
     </a>
+    <span> | </span>
+    <a href="https://jacquit-portfolio.netlify.app/" target="_blank">
+       Demo
+     </a>
   </h3>
 </div>
 
